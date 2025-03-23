@@ -109,7 +109,7 @@ For More info, see: [here](https://docs.github.com/en/authentication/connecting-
 
 ## 6. Run init again
 
-To finalize all the configuration changes please run:Ö
+To finalize all the configuration changes please run:
 
 `clustertool init`
 
